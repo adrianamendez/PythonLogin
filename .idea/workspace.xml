@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e78105a6-b24e-43be-9986-91aeed694e07" name="Default Changelist" comment="" />
+    <list default="true" id="e78105a6-b24e-43be-9986-91aeed694e07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,6 +229,9 @@
       <find>admin</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -255,11 +260,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1838" />
-    <option name="y" value="122" />
+    <option name="x" value="128" />
+    <option name="y" value="23" />
     <option name="width" value="1568" />
     <option name="height" value="907" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -358,11 +364,12 @@
       <workItem from="1553270860544" duration="16415000" />
       <workItem from="1553474634289" duration="19483000" />
       <workItem from="1556757935366" duration="620000" />
+      <workItem from="1556919506159" duration="697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47397000" />
+    <option name="totallyTimeSpent" value="48094000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -374,14 +381,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="23" width="1568" height="907" extended-state="0" />
+    <frame x="1838" y="122" width="1568" height="907" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2300131" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23263434" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.23558283" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23558283" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -390,7 +397,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="manage.py@mcDea" order="9" weight="0.32883435" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3226994" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3226994" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Python Console" order="14" weight="0.32883435" />
